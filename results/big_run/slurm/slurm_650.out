@@ -1,0 +1,11 @@
+imports
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sarabande in /home/williamson.v/.local/lib/python3.8/site-packages (0.3.3)
+environment
+My SLURM_ARRAY_JOB_ID is 60664734.
+My SLURM_ARRAY_TASK_ID is 650
+Executing on the machine: c0710a-s22.ufhpc
+running jobs
+the id of this job is 650
+Preparing the data:
+Finished Calculating 4PCF in 26922.9891 seconds
